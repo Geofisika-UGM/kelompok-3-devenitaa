@@ -2,7 +2,7 @@
 
 ## Tugas 2
 
-## Hi there 👋
+Hi there 👋
 
 ![alt text](https://github.com/devenitaa/devenitaa/blob/main/hai.jpg?raw=true)
 
@@ -15,3 +15,5 @@ In my free time, I love reading books, playing piano, and also listening to musi
 My short-term goal is to finish my studies successfully while gaining as much experience as I can through projects and organizations. In the long term, I aspire to build a meaningful career in Geophysics and contribute positively to society.
 
 To sum up, I would describe myself as someone who is eager to learn, open to new opportunities, and determined to achieve my goals. One of my favorite quotes is, “Success doesn’t come from what you do occasionally, it comes from what you do consistently.”
+
+![alt text](https://github.com/devenitaa/devenitaa/blob/main/image.png?raw=true)
