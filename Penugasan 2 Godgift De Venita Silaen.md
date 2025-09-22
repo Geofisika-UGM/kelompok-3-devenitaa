@@ -14,11 +14,17 @@ To sum up, I would describe myself as someone who is eager to learn, open to new
 
 ## Penugasan
 
+Dalam penugasan ini, praktikan menggunakan berbagai fitur git, seperti git clone, dir, dan lain-lain untuk menghubungkan repositori dari github dengan visual studio code melalui anaconda prompt. 
 ![alt text](https://github.com/devenitaa/devenitaa/blob/main/Gambar%201.png?raw=true)
 Gambar 1.1
+- Perintah git clone digunakan untuk menyalin repository dari GitHub ke lokal komputer. Sehingga Git berhasil menyalin repo bernama devenitaa.
+- Perintah dir untuk melihat isi direktori. Hasilnya terlihat ada folder devenitaa di dalam prak. metkom 2025. Artinya, repository sudah berhasil diclone dan sekarang ada di folder lokal.
 
 ![alt text](https://github.com/devenitaa/devenitaa/blob/main/Gambar%202.png?raw=true)
 Gambar 1.2
+- git add . → menambahkan semua file ke staging area.
+- git commit -m "update" → membuat commit baru. Tapi muncul pesan “nothing to commit, working tree clean”, artinya tidak ada perubahan file sejak clone terakhir.
+- git push → mengirim commit ke GitHub. Karena tidak ada perubahan, repo sudah up-to-date.
 
 ![alt text](https://github.com/devenitaa/devenitaa/blob/main/Gambar%203.png?raw=true)
 Gambar 1.3
