@@ -1,6 +1,6 @@
 ## Introducing: Venita
 
-![alt text](https://github.com/devenitaa/devenitaa/blob/main/wanderer.jpg?raw=true)
+![alt text](https://github.com/devenitaa/devenitaa/blob/main/716724ce2ccf45f7269b68ff23702bd7.gif?raw=true)
 
 ## About me
 
